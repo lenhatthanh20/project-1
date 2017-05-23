@@ -1,0 +1,98 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "E:\hoclaptrinh\tailieuMCU\orcad\myCapture\WM8510.OLB"
+        (Type "Schematic Library")))
+    (File ".\radxa_rock_pro_doorbell.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PSPICE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (WM8510
+      (FullPartName "WM8510.Normal")
+      (LibraryName "E:\HOCLAPTRINH\TAILIEUMCU\ORCAD\MYCAPTURE\WM8510.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "E:\hoclaptrinh\tailieuMCU\orcad\myCapture")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\radxa_rock_pro_doorbell.dsn")
+      (Path "Design Resources" ".\radxa_rock_pro_doorbell.dsn" "RADXA_V2.0")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "E:\hoclaptrinh\tailieuMCU\orcad\myCapture\WM8510.OLB"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 219"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 151 973 9 353")
+        (Scroll "828 570")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ADMINISTRATOR\DESKTOP\ÐA1\DOAN1\01_SCHEMATIC\RADXA_ROCK_PRO_DOORBELL.DSN")
+      (Schematic "RADXA_V2.0")
+      (Page "08.RK616"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 897 50 361")
+        (Scroll "0 140")
+        (Zoom "144")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ADMINISTRATOR\DESKTOP\ÐA1\DOAN1\01_SCHEMATIC\RADXA_ROCK_PRO_DOORBELL.DSN")
+      (Schematic "RADXA_V2.0")
+      (Page "09.LVDS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 947 100 411")
+        (Scroll "0 320")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ADMINISTRATOR\DESKTOP\ÐA1\DOAN1\01_SCHEMATIC\RADXA_ROCK_PRO_DOORBELL.DSN")
+      (Schematic "RADXA_V2.0")
+      (Page "11.Camera"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 872 25 336")
+        (Scroll "215 0")
+        (Zoom "72")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ADMINISTRATOR\DESKTOP\ÐA1\DOAN1\01_SCHEMATIC\RADXA_ROCK_PRO_DOORBELL.DSN")
+      (Schematic "RADXA_V2.0")
+      (Page "02.Block Diagram"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 972 125 436")
+        (Scroll "0 0")
+        (Zoom "144")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\ADMINISTRATOR\DESKTOP\ÐA1\DOAN1\01_SCHEMATIC\RADXA_ROCK_PRO_DOORBELL.DSN")
+      (Schematic "RADXA_V2.0")
+      (Page "07.GPIO"))))

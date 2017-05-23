@@ -1,0 +1,10 @@
+1/ 90 Ohm -> USB Diffpair Signal		                      --> GREEN
+	trace width = 4 mil (TOP, BOTTOM)
+	primary gap = 8 mil
+
+2/ 100 Ohm -> DDR Diffpair, PHY to RJ45 Signal, CSI, LVDS     --> RED
+	trace width = 4 mil (TOP, SIG4, BOTTOM)
+	primary gap = 9 mil
+
+3/ 50 ohm trace -> Single end, else
+	Trace width = 4 (TOP, SIG4, BOTTOM)

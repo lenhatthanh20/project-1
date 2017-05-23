@@ -1,0 +1,97 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : layout_12.brd                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Oct 31 17:47:55 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH TRUE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd';
+NEW_BOARD_NAME 'C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd';
+
+CmdLine: netrev -$ -i C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist -x -y 1 -z C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/#Taaaaab01244.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist/pstchip.dat 
+   Finished reading C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist/pstchip.dat (00:00:00.10)
+Starting to read C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist/pstxprt.dat 
+   Finished reading C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist/pstxprt.dat (00:00:00.01)
+Starting to read C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist/pstxnet.dat 
+   Finished reading C:/Users/lenha/Desktop/Doobell_Rk31881/01_Schematic/01_Schematic/netlist/pstxnet.dat (00:00:00.03)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'HEADER8' for device 'HEADER 8_HEADER8_HEADER 8': WARNING(SPMHUT-127): Could not find padstack PAD30SQ20D. [help]
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-337): Unable to load symbol 'WM8510' for device 'WM8510_2_WM8510_WM8510': WARNING(SPMHUT-127): Could not find padstack SMD20_12. [help]
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 31 17:47:55 2016
+   DESIGN NAME : 'RADXA_ROCK_PRO_DOORBELL'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+  2 warnings detected
+
+cpu time      0:03:40
+elapsed time  0:00:02
+

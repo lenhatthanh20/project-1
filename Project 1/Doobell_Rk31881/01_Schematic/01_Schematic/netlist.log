@@ -1,0 +1,16 @@
+{ Using PSTWRITER 16.6.0 d001Oct-31-2016 at 16:38:56 }
+
+#1 ERROR(ORCAP-36041): Duplicate Pin Name "AGND" found on Package WM8510_0 , U1 Pin Number 8: RADXA_V2.0, 08.RK616 (9.90, 1.60). Please renumber one of these.
+#2 ERROR(ORCAP-36041): Duplicate Pin Name "SPKGND" found on Package WM8510_0 , U1 Pin Number 24: RADXA_V2.0, 08.RK616 (9.90, 1.60). Please renumber one of these.
+#3 ERROR(ORCAP-36041): Duplicate Pin Name "SPKVDD" found on Package WM8510_0 , U1 Pin Number 27: RADXA_V2.0, 08.RK616 (9.90, 1.60). Please renumber one of these.
+#4 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package RES , R1: RADXA_V2.0, 08.RK616 (7.90, 1.10). All pins should be numbered.
+#5 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package RES , R1: RADXA_V2.0, 08.RK616 (7.90, 1.10). All pins should be numbered.
+#6 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package RES , R3: RADXA_V2.0, 08.RK616 (7.90, 2.80). All pins should be numbered.
+#7 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package RES , R3: RADXA_V2.0, 08.RK616 (7.90, 2.80). All pins should be numbered.
+#8 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package RES , R4: RADXA_V2.0, 08.RK616 (6.90, 2.50). All pins should be numbered.
+#9 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package RES , R4: RADXA_V2.0, 08.RK616 (6.90, 2.50). All pins should be numbered.
+#10 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package MIC-Microphone0 , MIC1: RADXA_V2.0, 08.RK616 (7.50, 1.80). All pins should be numbered.
+#11 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package MIC-Microphone0 , MIC1: RADXA_V2.0, 08.RK616 (7.50, 1.80). All pins should be numbered.
+#12 ERROR(ORCAP-36022): Pin number missing from Pin "1" of Package MICROPHONE , X2: RADXA_V2.0, 08.RK616 (12.70, 1.70). All pins should be numbered.
+#13 ERROR(ORCAP-36022): Pin number missing from Pin "2" of Package MICROPHONE , X2: RADXA_V2.0, 08.RK616 (12.70, 1.70). All pins should be numbered.
+#14 ERROR(ORCAP-36018): Aborting Netlisting... Please correct the above errors and retry.

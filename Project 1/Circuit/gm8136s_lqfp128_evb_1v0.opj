@@ -1,0 +1,241 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "F:\ProjectORCAD\doanLIB\LIBRARY1.OLB"
+        (Type "Schematic Library")))
+    (File ".\gm8136s_lqfp128_evb_1v0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE"))
+  (Folder "Outputs"
+    (File ".\gm8136s_lqfp128_evb_1v0.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\IEC\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 9"
+      (FullPartName "HEADER 9.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 4"
+      (FullPartName "HEADER 4.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 8"
+      (FullPartName "HEADER 8.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 15"
+      (FullPartName "HEADER 15.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 13"
+      (FullPartName "HEADER 13.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 10"
+      (FullPartName "HEADER 10.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\PCBDEV.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-B
+      (LibraryName "F:\LIB\PROLIFIC.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\IEC\DEVICE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\OLDLIBS\LAYOUT.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\IEC\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (RC522
+      (FullPartName "RC522.Normal")
+      (LibraryName "F:\PROJECTORCAD\DOANLIB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (TFTLCD
+      (FullPartName "TFTLCD.Normal")
+      (LibraryName "F:\PROJECTORCAD\DOANLIB\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "F:\ProjectORCAD\doanLIB\LIBRARY1.OLB")
+      (Path "Outputs")
+      (Select "Design Resources" "Library"
+         "F:\ProjectORCAD\doanLIB\LIBRARY1.OLB" "RC522"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 209"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1212 26 278")
+        (Scroll "-335 0")
+        (Zoom "20")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "05_GM8136_LQFP128"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1238 52 304")
+        (Scroll "-338 0")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "06_Flash"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1264 78 330")
+        (Scroll "-84 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "07_USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 356")
+        (Scroll "0 0")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "08_CMOS Sensor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1186 0 252")
+        (Scroll "-318 0")
+        (Zoom "33")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "09_Ethernet"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1212 26 278")
+        (Scroll "-197 0")
+        (Zoom "49")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "10_UART_ICE_IRDA_ADC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1290 104 356")
+        (Scroll "-67 0")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "13_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1062 26 351")
+        (Scroll "0 0")
+        (Zoom "106")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "TFT_LCD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1036 0 252")
+        (Scroll "-57 27")
+        (Zoom "90")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "RFID"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 997 104 369")
+        (Scroll "0 13")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "FINGER_PRINT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1062 26 383")
+        (Scroll "-106 0")
+        (Zoom "80")
+        (Occurrence "/"))
+      (Path "C:\USERS\LENHA\DESKTOP\CIRCUIT\GM8136S_LQFP128_EVB_1V0.DSN")
+      (Schematic "01_GM8136_EPAD_QFP128_EVB")
+      (Page "KEYPAD")))
+  (MPSSessionName "lenha")
+  (LastUsedLibraryBrowseDirectory "F:\ProjectORCAD\doanLIB"))

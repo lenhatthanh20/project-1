@@ -1,0 +1,4475 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-31-2016 at 17:29:28 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RADXA_ROCK_PRO_DOORBELL';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ 1 'CON2_CON_2_CON2/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85952458@LIBRARY1.CON2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85952458@library1.\con2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85952458@library1.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ 2 'CON2_CON_2_CON2/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85952473@LIBRARY1.CON2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85952473@library1.\con2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85952473@library1.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BT1 'CON2_BAT_CR1220_BAT_3V':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85123479@ROCK-CHIPS.CON2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85123479@\rock-chips\.\con2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85123479@\rock-chips\.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86157826@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86157826@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86157826@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_2_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78873170@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78873170@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78873170@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C100 'CAP NP_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85577444@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85577444@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85577444@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C101 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85322949@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85322949@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85322949@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C102 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85577510@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85577510@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85577510@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C103 'CAP NP_CAP_1210_22UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823325@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823325@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823325@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C107 'CAP_CAPP_TAJ_D_DISCRETE_100UF/2':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823151@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823151@discrete.\cap.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823151@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CAP_1210_22UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823247@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823247@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823247@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C111 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85828714@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85828714@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins85828714@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C112 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85828660@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85828660@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins85828660@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C113 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85828648@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85828648@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins85828648@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C114 'CAP_CAPP_TAJ_D_220UF/10V':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823311@DISCRETE.CAP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823311@discrete.\cap.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823311@discrete.\cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C116 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85828680@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85828680@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins85828680@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C118 'CAP NP_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84975453@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84975453@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84975453@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C119 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85828833@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85828833@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins85828833@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78862147@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78862147@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78862147@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C120 'CAP NP_2_C0603_1UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78900823@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78900823@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78900823@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C126 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78887911@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78887911@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78887911@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C127 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78889697@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78889697@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78889697@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C128 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85751350@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85751350@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85751350@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_2_C0603_1UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78893577@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78893577@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78893577@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C133 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85751479@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85751479@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85751479@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C134 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78887018@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78887018@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78887018@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C135 'CAP NP_C0402_47NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78906313@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78906313@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78906313@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78884339@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78884339@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78884339@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C141 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85751359@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85751359@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85751359@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78885232@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78885232@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78885232@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C153 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47144664@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47144664@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins47144664@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C154 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85088887@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85088887@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85088887@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C155 'CAP NP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS83773898@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins83773898@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins83773898@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C156 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47144529@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47144529@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins47144529@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C157 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054670@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054670@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054670@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C158 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS73357966@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins73357966@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins73357966@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C159 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27855232@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27855232@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27855232@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78883446@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78883446@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78883446@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C160 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS73354507@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins73354507@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins73354507@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C161 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079742@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079742@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079742@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C162 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079634@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079634@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079634@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C163 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS48527194@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins48527194@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins48527194@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C164 'CAP NP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS60334760@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins60334760@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins60334760@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C165 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27836948@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27836948@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27836948@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C166 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85088906@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85088906@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85088906@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C167 'CAP NP_4_C0402_100NF/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753023@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753023@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753023@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C168 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85727224@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85727224@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85727224@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C169 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27882278@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27882278@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27882278@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C170 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27874649@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27874649@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27874649@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C171 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85721796@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85721796@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85721796@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C172 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47144655@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47144655@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins47144655@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C173 'CAP NP_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27855240@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27855240@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27855240@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C174 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054807@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054807@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054807@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C175 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054783@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054783@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054783@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C176 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054144@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054144@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054144@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C177 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079719@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079719@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079719@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C178 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055247@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055247@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055247@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C179 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27855272@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27855272@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27855272@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_C0402_4.7NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823183@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823183@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823183@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C180 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055181@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055181@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055181@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C181 'CAP NP_4_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85088853@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85088853@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85088853@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C182 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753131@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753131@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753131@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C183 'CAP NP_C0402_1UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753069@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753069@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753069@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C184 'CAP NP_C0402_10NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS48321605@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins48321605@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins48321605@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C185 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079558@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079558@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079558@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C186 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS45576517@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins45576517@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins45576517@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C187 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079658@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079658@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079658@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C188 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84536575@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84536575@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins84536575@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C189 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055230@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055230@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055230@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78863586@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78863586@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78863586@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C190 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47888923@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47888923@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47888923@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C191 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85088874@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85088874@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85088874@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C192 'CAP NP_C0402_100NF/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103683@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103683@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103683@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C193 'CAP NP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47144632@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47144632@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins47144632@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C194 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85126229@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85126229@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85126229@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C195 'CAP NP_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS83774148@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins83774148@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins83774148@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C196 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS50651077@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins50651077@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins50651077@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C197 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079775@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079775@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079775@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C198 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079547@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079547@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079547@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C199 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS73357254@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins73357254@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins73357254@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0805_1U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86157913@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86157913@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86157913@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_C0402_DISCRETE_10NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823199@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823199@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823199@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C200 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85106452@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85106452@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85106452@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C201 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055196@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055196@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055196@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C202 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054161@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054161@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054161@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C203 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054853@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054853@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054853@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C204 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262539@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262539@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262539@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C205 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054719@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054719@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054719@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C206 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079649@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079649@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079649@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C207 'CAP NP_2_C0603_1UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84988179@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84988179@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84988179@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C208 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS45576504@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins45576504@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins45576504@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C209 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS27882288@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins27882288@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins27882288@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C210 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079706@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079706@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079706@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C211 'CAP NP_0_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095560@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095560@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095560@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C212 'CAP NP_0_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095600@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095600@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095600@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C213 'CAP NP_0_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095676@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095676@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095676@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C214 'CAP NP_0_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095621@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095621@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095621@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C215 'C0603_C0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753179@ORCAD_LIB.C0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753179@orcad_lib.\c0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753179@orcad_lib.\c0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C216 'C0603_C0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753171@ORCAD_LIB.C0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753171@orcad_lib.\c0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753171@orcad_lib.\c0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C217 'CAP NP_4_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262336@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262336@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262336@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C218 'CAP NP_4_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85285289@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85285289@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85285289@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C219 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262402@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262402@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262402@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78888804@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78888804@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78888804@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C220 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262387@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262387@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262387@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C221 'CAP NP_2_C0402_22NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85261878@NOONTEC_BOX_RK1000_V1.0_20110507.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85261878@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85261878@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C222 'CAP NP_4_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262351@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262351@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262351@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C223 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262020@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262020@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262020@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C225 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85123503@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85123503@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85123503@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C227 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85109206@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85109206@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85109206@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C229 'CAP NP_C0402_12PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85119453@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85119453@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85119453@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86158590@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86158590@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86158590@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C230 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85101827@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85101827@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85101827@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C231 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85101812@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85101812@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85101812@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C233 'CAP NP_C0402_22NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86037340@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86037340@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86037340@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C234 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86037389@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86037389@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86037389@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C235 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86037500@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86037500@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86037500@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C239 'CAP NP_C0603_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86049938@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86049938@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86049938@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86158649@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86158649@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86158649@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C240 'CAPC-SM0402_10_CAPP_TAJ_D_DISCR':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86050880@EDM1-FAIRY-REVA1.CAPC-SM0402_10.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86050880@\edm1-fairy-reva1\.\capc-sm0402_10.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86050880@\edm1-fairy-reva1\.\capc-sm0402_10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C241 'CAP NP_C0402_DISCRETE_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86051812@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86051812@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86051812@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C243 'C0805_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86081044@ORCAD_LIB_100412.C0805.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86081044@orcad_lib_100412.\c0805.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86081044@orcad_lib_100412.\c0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86158657@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86158657@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86158657@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C250 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86146599@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86146599@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins86146599@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86158665@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86158665@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86158665@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_C0805_22UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85304931@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85304931@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85304931@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823167@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823167@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823167@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_2_C0402_1UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78899052@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78899052@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78899052@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84691882@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84691882@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins84691882@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_C0805_220PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86163957@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86163957@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86163957@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47144677@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47144677@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins47144677@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86163973@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86163973@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86163973@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_C0603_DISCRETE_2.2UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830533@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830533@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830533@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAPACITOR_0_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85030212@ICBGA_APP_PAD_DDR3_V1_0_110730.CAPACITOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85030212@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85030212@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0402_8PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS48107691@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins48107691@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins48107691@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_C0805_22UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85305967@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85305967@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85305967@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78858089@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78858089@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78858089@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78863394@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78863394@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78863394@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAPACITOR_0_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85030230@ICBGA_APP_PAD_DDR3_V1_0_110730.CAPACITOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85030230@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85030230@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_2_C0603_1UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78898159@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78898159@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78898159@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_C0603_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78868204@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78868204@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78868204@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_2_C0402_2.2UF':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78886125@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78886125@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78886125@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAPC-SM0402_10_C0603_DISCRETE_1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830436@EDM1-FAIRY-REVA1.CAPC-SM0402_10.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830436@\edm1-fairy-reva1\.\capc-sm0402_10.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830436@\edm1-fairy-reva1\.\capc-sm0402_10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_1_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830461@SCH_HDMI_DONGLE_MX6X_REVB2_20130116_1500.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830461@sch_hdmi_dongle_mx6x_revb2_20130116_1500.\cap np_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830461@sch_hdmi_dongle_mx6x_revb2_20130116_1500.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_C0805_22UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85304916@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85304916@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85304916@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0805_1U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86157956@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86157956@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86157956@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_C0603_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78865358@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78865358@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78865358@library1.\cap np.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_1_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830447@SCH_HDMI_DONGLE_MX6X_REVB2_20130116_1500.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830447@sch_hdmi_dongle_mx6x_revb2_20130116_1500.\cap np_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830447@sch_hdmi_dongle_mx6x_revb2_20130116_1500.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAPACITOR_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85030221@PVP.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85030221@pvp.\capacitor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85030221@pvp.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032517@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032517@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032517@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079521@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079521@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079521@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054113@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054113@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054113@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054763@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054763@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054763@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079567@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079567@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079567@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_4_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079598@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079598@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079598@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85034817@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85034817@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85034817@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP NP_4_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85060845@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85060845@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85060845@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP NP_2_C0805_10UF':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78870329@RK2808-MID_PWS700AA-1201-V20.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78870329@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78870329@\rk2808-mid_pws700aa-1201-v20\.\cap np_2.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C64 'CAPACITOR_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85026710@PVP.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85026710@pvp.\capacitor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85026710@pvp.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C65 'CAPACITOR_0_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85047664@ICBGA_APP_PAD_DDR3_V1_0_110730.CAPACITOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85047664@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85047664@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP NP_C0603_DISCRETE_2.2UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830549@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830549@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830549@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C68 'CAPACITOR_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85030552@PVP.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85030552@pvp.\capacitor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85030552@pvp.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0402_10NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85044255@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85044255@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85044255@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C70 'CAPACITOR_C0402_22PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85030539@PVP.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85030539@pvp.\capacitor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85030539@pvp.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C71 'CAPACITOR_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85026680@PVP.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85026680@pvp.\capacitor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85026680@pvp.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C72 'CAPACITOR_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85026695@PVP.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85026695@pvp.\capacitor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85026695@pvp.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP NP_C0402_8PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47889144@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47889144@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47889144@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C74 'CAPACITOR_0_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85026650@ICBGA_APP_PAD_DDR3_V1_0_110730.CAPACITOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85026650@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85026650@icbga_app_pad_ddr3_v1_0_110730.\capacitor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C75 'CAP NP_C0402_8PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47889182@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47889182@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47889182@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C76 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079751@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079751@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079751@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C77 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055164@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055164@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055164@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C78 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055213@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055213@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055213@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C79 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054687@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054687@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054687@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0805_4.7U':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86158582@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86158582@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86158582@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C80 'CAP NP_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85997995@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85997995@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85997995@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C81 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103419@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103419@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103419@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C82 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103515@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103515@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103515@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C83 'CAP NP_C0402_100NF/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85998056@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85998056@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85998056@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C84 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103437@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103437@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103437@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C85 'CAP NP_2_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85261864@NOONTEC_BOX_RK1000_V1.0_20110507.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85261864@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85261864@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C86 'CAP NP_2_C0603_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85261786@NOONTEC_BOX_RK1000_V1.0_20110507.CAP NP_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85261786@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85261786@\noontec_box_rk1000_v1.0_20110507\.\cap np_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C87 'CAP NP_4_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85056828@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85056828@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85056828@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C88 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079506@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079506@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079506@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079538@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079538@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079538@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAP_1210_22UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823261@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823261@discrete.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823261@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C90 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079766@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079766@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079766@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C91 'CAP NP_0_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079697@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079697@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079697@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C92 'CAP NP_0_C0402_1NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095569@RK2918_PMU_V1.0_0926.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095569@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095569@\rk2918_pmu_v1.0_0926\.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C93 'CAP NP_4_C0402_100PF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85265985@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85265985@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85265985@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C94 'CAP NP_4_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85079607@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85079607@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85079607@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C95 'CAP NP_4_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85265994@RK2818_10INCH_REF_V1.2_0726.CAP NP_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85265994@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85265994@\rk2818_10inch_ref_v1.2_0726\.\cap np_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C96 'CAP NP_C0402_100NF/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85998322@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85998322@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85998322@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C97 'CAP NP_C0603_4.7UF/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85998031@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85998031@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85998031@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C98 'CAP NP_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85577573@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85577573@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85577573@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C99 'CAP NP_C0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS50986832@LIBRARY1.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins50986832@library1.\cap np.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins50986832@library1.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_0_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85512208@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85512208@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85512208@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'DIODE BRIDGE_0_TO-269AA_MB1S-TP':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85839255@GM8136S_LQFP128_VER1.DIODE BRIDGE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85839255@gm8136s_lqfp128_ver1.\diode bridge_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85839255@gm8136s_lqfp128_ver1.\diode bridge_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'SS34_1_SK34A_SS34':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823295@SCH_FLAT.SS34_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823295@sch_flat.\ss34_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823295@sch_flat.\ss34_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D22 'SS34_0_SK34A_SS34':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85841284@SCHEMATIC_2.SS34_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85841284@schematic_2.\ss34_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85841284@schematic_2.\ss34_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D24 'DIODE_SOD523_1N4148':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84989875@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84989875@discrete.\diode.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84989875@discrete.\diode.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D25 'DIODE_SOD523_1N4148':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84988228@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84988228@discrete.\diode.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84988228@discrete.\diode.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D26 'DIODE_SOD523_1N4148':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84983667@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84983667@discrete.\diode.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84983667@discrete.\diode.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D27 'DIODE_SOD523_1N4148':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84988153@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84988153@discrete.\diode.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84988153@discrete.\diode.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D28 'DIODE_0_SOD523_1N4148':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85123447@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85123447@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85123447@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D29 'DIODE_0_SOD523_1N4148/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85123439@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85123439@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85123439@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_0_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85044436@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85044436@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85044436@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D30 'DIODE_0_SOD523_1N4148':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85123455@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85123455@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85123455@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D31 'DIODE_0_SOD523_1N4148':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85353793@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85353793@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85353793@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D32 'DIODE BRIDGE_0_TO-269AA_MB1S-TP':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86023019@GM8136S_LQFP128_VER1.DIODE BRIDGE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86023019@gm8136s_lqfp128_ver1.\diode bridge_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins86023019@gm8136s_lqfp128_ver1.\diode bridge_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'SS34_1_SK34A_SS34':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823131@SCH_FLAT.SS34_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823131@sch_flat.\ss34_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823131@sch_flat.\ss34_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE_0_SOD523_1N4148':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85047615@SG301W_V1.0-0324-11.DIODE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85047615@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85047615@\sg301w_v1.0-0324-11\.\diode_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_1_SM0603LED_AC_LED':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823351@RADXA_ROCK_PRO.LED_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823351@radxa_rock_pro.\led_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823351@radxa_rock_pro.\led_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'LED_2_SM0603LED_AC_LED':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85954750@RADXA_ROCK_PRO.LED_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85954750@radxa_rock_pro.\led_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85954750@radxa_rock_pro.\led_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED1 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85002592@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85002592@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85002592@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED10 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85101221@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85101221@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85101221@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED11 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84989049@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84989049@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84989049@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED12 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112695@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112695@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112695@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED13 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112704@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112704@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112704@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED14 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112686@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112686@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112686@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED15 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112713@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112713@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112713@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED16 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112722@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112722@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112722@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED17 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112731@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112731@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112731@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED2 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85002913@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85002913@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85002913@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED3 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032462@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032462@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032462@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED4 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032444@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032444@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032444@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED5 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032453@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032453@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032453@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED6 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85112752@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85112752@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85112752@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED7 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85002898@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85002898@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85002898@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED8 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85002883@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85002883@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85002883@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ ED9 'TVS_ESD0402_ESD9B5VL':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85700358@LIBRARY1.TVS.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85700358@library1.\tvs.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85700358@library1.\tvs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB3 'INDUCTOR_D0603_BLM18PG181SN1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85026810@ROCK-CHIPS.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85026810@\rock-chips\.\inductor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85026810@\rock-chips\.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 'HEADER 2_HEARDER_2_PITCH_1P25MM':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830428@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830428@connector.\header 2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830428@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'CON2_CON_2_CON2/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85104218@LIBRARY1.CON2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85104218@library1.\con2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85104218@library1.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'RJ45_0_RJ45-VERTICAL_RJ45':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85839019@RADXA_ROCK_PRO.RJ45_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85839019@radxa_rock_pro.\rj45_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85839019@radxa_rock_pro.\rj45_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'TF_SD_SOCKET_0_USD_SOCKET_TF_SD':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85113223@RADXA_ROCK_PRO.TF_SD_SOCKET_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85113223@radxa_rock_pro.\tf_sd_socket_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85113223@radxa_rock_pro.\tf_sd_socket_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1838 'CON6A_SMD_LED_RGB_LEDRGB':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110834@CONNECTOR.CON6A.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110834@connector.\con6a.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110834@connector.\con6a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1840 'CON2_0_HEARDER_4_PITCH_1P25MM_C':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86146257@RADXA_ROCK_PRO_DOORBELL.CON2_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86146257@radxa_rock_pro_doorbell.\con2_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins86146257@radxa_rock_pro_doorbell.\con2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1841 'HEADER 40_LCD40_HEADER 40':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86178605@CONNECTOR.HEADER 40.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86178605@connector.\header 40.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86178605@connector.\header 40.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1842 'HEADER 6_LCD6_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86179937@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86179937@connector.\header 6.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86179937@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1843 'HEADER 8_HEADER8_HEADER 8':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86180407@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86180407@connector.\header 8.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86180407@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'HEADER 10_SFW10R-1STE1LF_HEADER':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86105315@CONNECTOR.HEADER 10.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86105315@connector.\header 10.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86105315@connector.\header 10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'OV2659_FPC05P24_OV2659':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85504428@LIBRARY1.OV2659.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85504428@library1.\ov2659.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85504428@library1.\ov2659.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'CON3_ANTENNA_WIFI_CON3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86036073@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86036073@connector.\con3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins86036073@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON2_0_PJ-033A_DCIN_JACK':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86118921@SCH_FLAT.CON2_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86118921@sch_flat.\con2_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins86118921@sch_flat.\con2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'USB MIN_6_CON5_MICROUSB_SKT_SM_':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85002544@RADXA_ROCK_PRO.USB MIN_6.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85002544@radxa_rock_pro.\usb min_6.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85002544@radxa_rock_pro.\usb min_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 3_CONN3_BOX_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86104746@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86104746@connector.\header 3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins86104746@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'HEADER 3_CONN3_BOX_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86104776@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86104776@connector.\header 3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins86104776@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'HEADER 7_0_USB_CAM_HEADER 7':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85824355@RADXA_ROCK_PRO.HEADER 7_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85824355@radxa_rock_pro.\header 7_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85824355@radxa_rock_pro.\header 7_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L14 'INDUCTOR_0_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753163@RK2818_REF_V1.0 20100622.INDUCTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753163@\rk2818_ref_v1.0 20100622\.\inductor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753163@\rk2818_ref_v1.0 20100622\.\inductor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L15 'INDUCTOR_L0603_BLM18PG181SN1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262378@LAYOUT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262378@layout.\inductor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262378@layout.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L16 'INDUCTOR_L0603_BLM18PG181SN1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85261979@LAYOUT.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85261979@layout.\inductor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85261979@layout.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_IND_HEX_6.8UH/4.4A':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823119@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823119@discrete.\inductor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823119@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_1_IN4D_5X5_2.2UH/3A':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78917964@2.INDUCTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78917964@\2\.\inductor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78917964@\2\.\inductor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_1_IND_3X3_2.2UH/1.6A':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78922552@2.INDUCTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78922552@\2\.\inductor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78922552@\2\.\inductor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L6 'INDUCTOR_1_IND_3X3_2.2UH/1.6A':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78932069@2.INDUCTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78932069@\2\.\inductor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78932069@\2\.\inductor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L7 'INDUCTOR-COM_0_WCM_2012HDMI_900':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032420@RADXA_VER2.INDUCTOR-COM_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032420@radxa_ver2.\inductor-com_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032420@radxa_ver2.\inductor-com_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L8 'INDUCTOR_1_IN4D_5X5_2.2UH/3A':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78911779@2.INDUCTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78911779@\2\.\inductor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78911779@\2\.\inductor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MIC1 'MIC-MICROPHONE0_0_HEARDER_2_PIT':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86162668@RADXA_ROCK_PRO_DOORBELL.MIC-MICROPHONE0_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86162668@radxa_rock_pro_doorbell.\mic-microphone0_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86162668@radxa_rock_pro_doorbell.\mic-microphone0_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET N_SOT23_SI2302':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85047234@LIBRARY1.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85047234@library1.\mosfet n.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85047234@library1.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET N_0_SOT23_SI2301':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84989438@G15_5.6GPS_V1.1.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84989438@\g15_5.6gps_v1.1\.\mosfet n_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84989438@\g15_5.6gps_v1.1\.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET N_SOT23_SI2302':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84987607@LIBRARY1.MOSFET N.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84987607@library1.\mosfet n.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84987607@library1.\mosfet n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET N_0_SOT23_SI2301':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84983608@G15_5.6GPS_V1.1.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84983608@\g15_5.6gps_v1.1\.\mosfet n_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84983608@\g15_5.6gps_v1.1\.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET P_SOT23_SI2301':
+ ROOM='CHG';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85109178@LIBRARY1.MOSFET P.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85109178@library1.\mosfet p.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85109178@library1.\mosfet p.normal\(chips)',
+ ROOM='CHG',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q806 'NPN BCE_0_SOT23_2_C1815':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110964@SCHEMATIC_2.NPN BCE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110964@schematic_2.\npn bce_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110964@schematic_2.\npn bce_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q807 'NPN BCE_1_SOT23_2_C1815':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110973@SCHEMATIC_2.NPN BCE_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110973@schematic_2.\npn bce_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110973@schematic_2.\npn bce_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q808 'NPN BCE_0_SOT23_2_C1815':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110994@SCHEMATIC_2.NPN BCE_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110994@schematic_2.\npn bce_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110994@schematic_2.\npn bce_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_0_R0805_0':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86163204@RADXA_ROCK_PRO_DOORBELL.RES_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86163204@radxa_rock_pro_doorbell.\res_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86163204@radxa_rock_pro_doorbell.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS48107680@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins48107680@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins48107680@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'RESISTOR_0_R0402_240R%1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054321@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054321@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054321@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'RESISTOR_R0603_0R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103474@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103474@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103474@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R102 'RESISTOR_R0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS80035418@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins80035418@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins80035418@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R103 'RESISTOR_R0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS80044759@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins80044759@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins80044759@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R104 'RESISTOR_1_R0402_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85285344@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85285344@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85285344@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R105 'RESISTOR_1_R0402_10K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85285049@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85285049@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85285049@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R106 '4,7K-0603_R0402_10K_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85279189@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85279189@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85279189@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R107 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262772@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262772@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262772@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R108 '4,7K-0603_R0402_10K_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85279234@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85279234@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85279234@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R109 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262763@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262763@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262763@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R110 '4,7K-0603_R0402_12.1K%1_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85265625@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85265625@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85265625@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R113 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85578751@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85578751@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85578751@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R120 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS48107703@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins48107703@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins48107703@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R138 'RESISTOR_R0402_51K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85734466@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85734466@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85734466@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R140 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47889227@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47889227@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47889227@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R141 'RESISTOR_0_R0402_240R%1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055724@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055724@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055724@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R142 'RESISTOR_1_R0402_0R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85508547@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85508547@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85508547@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R143 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84989860@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84989860@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84989860@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R144 'RESISTOR_R0402_0R/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753144@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753144@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753144@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R145 'RESISTOR_0_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85961256@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85961256@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85961256@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R146 'RESISTOR_0_R0402_240R%1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054774@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054774@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054774@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R147 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85005091@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85005091@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85005091@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R148 'RESISTOR_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84988196@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84988196@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84988196@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R149 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85005680@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85005680@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85005680@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R150 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85005650@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85005650@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85005650@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R151 'RESISTOR_0_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095667@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095667@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095667@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R152 'RESISTOR_R0402_10K/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103751@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103751@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103751@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R153 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85005665@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85005665@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85005665@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R154 'RESISTOR_0_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85095652@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85095652@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85095652@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R155 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85120289@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85120289@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85120289@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R156 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85120298@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85120298@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85120298@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R157 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85119818@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85119818@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85119818@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R158 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84989491@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84989491@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84989491@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R159 'RESISTOR_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84987578@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84987578@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84987578@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R160 'RESISTOR_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84987349@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84987349@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84987349@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R161 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85119833@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85119833@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85119833@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R162 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84989608@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84989608@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84989608@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R163 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85263721@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85263721@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85263721@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R164 'RESISTOR_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84983574@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84983574@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84983574@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R165 'RESISTOR_1_R0402_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85285450@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85285450@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85285450@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R166 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262737@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262737@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262737@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R167 '4,7K-0603_R0402_470R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85279204@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85279204@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85279204@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R168 '100K-0603_R0402_49.9R%1_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85266521@R603.100K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85266521@r603.\100k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85266521@r603.\100k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R169 '100K-0603_R0402_49.9R%1_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85266536@R603.100K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85266536@r603.\100k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85266536@r603.\100k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85034832@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85034832@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85034832@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R170 '100K-0603_R0402_49.9R%1_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85266551@R603.100K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85266551@r603.\100k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85266551@r603.\100k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R171 '100K-0603_R0402_49.9R%1_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85266566@R603.100K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85266566@r603.\100k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85266566@r603.\100k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R172 'RESISTOR_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85109164@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85109164@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85109164@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R173 'RESISTOR_4_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85109149@RK2806_FT.RESISTOR_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85109149@rk2806_ft.\resistor_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85109149@rk2806_ft.\resistor_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R174 'RESISTOR_4_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85119419@RK2806_FT.RESISTOR_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85119419@rk2806_ft.\resistor_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85119419@rk2806_ft.\resistor_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R177 'RESISTOR_R0402_0R/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85109215@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85109215@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85109215@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R179 '4,7K-0603_R0402_470R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85279219@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85279219@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85279219@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R180 'RESISTOR_4_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85353850@RK2806_FT.RESISTOR_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85353850@rk2806_ft.\resistor_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85353850@rk2806_ft.\resistor_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R181 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85113247@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85113247@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85113247@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R185 'RESISTOR_R0805_10':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86081053@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86081053@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86081053@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R186 'RESISTOR_R0402_0R/NM':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86105400@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86105400@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86105400@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R187 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86105529@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86105529@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86105529@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R188 'RESISTOR_R0402_0R/NM':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86106088@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86106088@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86106088@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R189 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86106889@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86106889@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86106889@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_R0402_0R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85579195@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85579195@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85579195@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85044264@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85044264@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85044264@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_R0402_15K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85044273@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85044273@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85044273@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2202 'RES-SM0603_2_SMR0402_DISCRETE_2':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110846@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110846@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110846@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2203 'RES-SM0603_2_SMR0402_DISCRETE_2':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110854@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110854@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110854@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2204 'RES-SM0603_2_SMR0402_DISCRETE_2':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110868@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110868@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110868@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2205 'RES-SM0603_2_SMR0402_DISCRETE_1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110904@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110904@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110904@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2206 'RES-SM0603_2_SMR0402_DISCRETE_3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110912@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110912@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110912@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2207 'RES-SM0603_2_SMR0402_DISCRETE_1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110920@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110920@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110920@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2208 'RES-SM0603_2_SMR0402_DISCRETE_3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110940@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110940@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110940@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2209 'RES-SM0603_2_SMR0402_DISCRETE_1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110928@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110928@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110928@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2210 'RES-SM0603_2_SMR0402_DISCRETE_3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86110948@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86110948@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86110948@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2211 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86181077@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86181077@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86181077@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2212 'RESISTOR_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86181149@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86181149@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins86181149@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85034902@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85034902@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85034902@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR_R0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85034861@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85034861@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85034861@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_0_R0805_47K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86163949@RADXA_ROCK_PRO_DOORBELL.RES_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86163949@radxa_rock_pro_doorbell.\res_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86163949@radxa_rock_pro_doorbell.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RES-SM0402_0_R0402_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823277@SCREEN.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823277@screen.\res-sm0402_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823277@screen.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_1_R0402_100R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75724539@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75724539@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins75724539@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_1_R0402_20K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78943360@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78943360@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78943360@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RES-SM0402_1_R0402_DISCRETE_44.':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823215@SCREEN.RES-SM0402_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823215@screen.\res-sm0402_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823215@screen.\res-sm0402_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RES-SM0402_0_R0402_DISCRETE_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823231@EDM1-FAIRY-REVA1.RES-SM0402_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823231@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823231@\edm1-fairy-reva1\.\res-sm0402_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RESISTOR_1_R0402_4.99K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS78937358@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins78937358@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins78937358@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'RESISTOR_1_R0402_100R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75724399@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75724399@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins75724399@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_0_R0805_680':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86163965@RADXA_ROCK_PRO_DOORBELL.RES_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86163965@radxa_rock_pro_doorbell.\res_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86163965@radxa_rock_pro_doorbell.\res_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'RES-SM0402_2_R0402_DISCRETE_20K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823143@SCREEN.RES-SM0402_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823143@screen.\res-sm0402_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823143@screen.\res-sm0402_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R44 'RESISTOR_0_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75752601@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75752601@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins75752601@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R48 'RES-SM0603_2_R0402_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830499@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830499@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830499@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R49 'RES-SM0603_2_R0402_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830491@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830491@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830491@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R50 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85028201@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85028201@discrete.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85028201@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85028218@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85028218@discrete.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85028218@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_1_R0402_100R':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75724254@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75724254@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins75724254@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R53 'RESISTOR_4_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84248823@RK2806_FT.RESISTOR_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84248823@rk2806_ft.\resistor_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84248823@rk2806_ft.\resistor_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R54 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85028243@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85028243@discrete.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85028243@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R55 'RESISTOR_R0402_NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032570@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032570@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032570@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_R0402_0R/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032500@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032500@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032500@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032526@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032526@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032526@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_0_R0402_240R%1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85053858@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85053858@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85053858@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R59 'RES-SM0603_2_R0402_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830507@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830507@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830507@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R60 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85733114@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85733114@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85733114@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_R0402_47K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032603@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032603@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032603@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'RES-SM0603_2_R0402_DISCRETE_11K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830561@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830561@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830561@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R67 'RESISTOR_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85047634@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85047634@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85047634@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0402_1.5K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75484637@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75484637@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins75484637@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'RES-SM0603_2_R0402_DISCRETE_1K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830515@EDM1-FAIRY-REVA1.RES-SM0603_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830515@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830515@\edm1-fairy-reva1\.\res-sm0603_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R75 'RESISTOR_R0402_680R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85028192@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85028192@discrete.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85028192@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R76 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85048009@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85048009@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85048009@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R78 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS77049738@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins77049738@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins77049738@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47889153@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47889153@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47889153@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0402_1.5K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75484650@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75484650@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins75484650@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR_R0402_22R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47889121@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47889121@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47889121@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_0_R0402_100R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85094923@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85094923@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85094923@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R82 'RESISTOR_R0402_200R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS45209066@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins45209066@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins45209066@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R83 'RESD,0402,5%,1/16W,4.7K_R0402_1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85954141@MX6_TK_LIB.RESD,0402,5%,1/16W,4.7K.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85954141@mx6_tk_lib.\resd,0402,5%,1/16w,4.7k.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85954141@mx6_tk_lib.\resd,0402,5%,1/16w,4.7k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R84 'RESISTOR_0_R0402_240R%1':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85056304@RK2806_REF_SCH_V1.3.RESISTOR_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85056304@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85056304@\rk2806_ref_sch_v1.3\.\resistor_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R85 'RESISTOR_R0402_200R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS45208923@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins45208923@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins45208923@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R86 'RESISTOR_R0402_680R':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85954635@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85954635@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85954635@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R88 'RESISTOR_R0402_10K/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103840@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103840@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103840@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84691870@LIBRARY1.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84691870@library1.\resistor.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins84691870@library1.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R90 '4,7K-0603_R0402_2K_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85265286@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85265286@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85265286@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R91 'RESISTOR_1_R0402_NC':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85284935@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85284935@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85284935@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R92 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85263736@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85263736@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85263736@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R93 'RESISTOR_1_R0402_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85284397@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85284397@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85284397@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_1_R0402_4.7K':
+ ROOM='USB+5V';
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85284917@RK2808-MID_7C-1030.RESISTOR_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85284917@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85284917@\rk2808-mid_7c-1030\.\resistor_1.normal\(chips)',
+ ROOM='USB+5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R95 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262802@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262802@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262802@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R96 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262784@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262784@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262784@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R97 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85263766@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85263766@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85263766@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R98 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85263745@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85263745@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85263745@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R99 '4,7K-0603_R0402_22R_5%':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85263757@R603.4,7K-0603.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85263757@r603.\4,7k-0603.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85263757@r603.\4,7k-0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RP1 'RESISTOR 4PACK_RCA80-8_10K/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103721@LIBRARY1.RESISTOR 4PACK.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103721@library1.\resistor 4pack.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103721@library1.\resistor 4pack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RP2 'RESISTOR 4PACK_RCA80-8_10K/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85103736@LIBRARY1.RESISTOR 4PACK.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85103736@library1.\resistor 4pack.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85103736@library1.\resistor 4pack.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_B3U-1000P_POWER':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85700350@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85700350@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85700350@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON_B3U-1000P_POWER':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS84988511@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins84988511@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins84988511@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON_B3U-1000P_POWER':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85101213@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85101213@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85101213@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'WM8510_2_WM8510_WM8510':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86157777@RADXA_ROCK_PRO_DOORBELL.WM8510_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86157777@radxa_rock_pro_doorbell.\wm8510_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86157777@radxa_rock_pro_doorbell.\wm8510_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'GLI8024-48_3_SSOP28_GL850G':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85028268@GL850G-SSOP28.GLI8024-48_3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85028268@\gl850g-ssop28\.\gli8024-48_3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85028268@\gl850g-ssop28\.\gli8024-48_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'DDRII_3_FBGA96-10X14_DDR3-512MB':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85056546@RADXA_VER2.DDRII_3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85056546@radxa_ver2.\ddrii_3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85056546@radxa_ver2.\ddrii_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'RK3188_0_BGA453-19X19_RK3188':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85726571@RK3188_RK610_V1.1_20121213.RK3188_0A.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85726571@\rk3188_rk610_v1.1_20121213\.\rk3188_0a.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85726571@\rk3188_rk610_v1.1_20121213\.\rk3188_0a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85721817@RK3188_RK610_V1.1_20121213.RK3188_0B.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85721817@\rk3188_rk610_v1.1_20121213\.\rk3188_0b.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85721817@\rk3188_rk610_v1.1_20121213\.\rk3188_0b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75063768@RK3188_RK610_V1.1_20121213.RK3188_0C.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75063768@\rk3188_rk610_v1.1_20121213\.\rk3188_0c.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins75063768@\rk3188_rk610_v1.1_20121213\.\rk3188_0c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS74956166@RK3188_RK610_V1.1_20121213.RK3188_0D.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins74956166@\rk3188_rk610_v1.1_20121213\.\rk3188_0d.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins74956166@\rk3188_rk610_v1.1_20121213\.\rk3188_0d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS74952696@RK3188_RK610_V1.1_20121213.RK3188_0E.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins74952696@\rk3188_rk610_v1.1_20121213\.\rk3188_0e.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins74952696@\rk3188_rk610_v1.1_20121213\.\rk3188_0e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75023136@RK3188_RK610_V1.1_20121213.RK3188_0F.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75023136@\rk3188_rk610_v1.1_20121213\.\rk3188_0f.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins75023136@\rk3188_rk610_v1.1_20121213\.\rk3188_0f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85113493@RK3188_RK610_V1.1_20121213.RK3188_0G.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85113493@\rk3188_rk610_v1.1_20121213\.\rk3188_0g.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85113493@\rk3188_rk610_v1.1_20121213\.\rk3188_0g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85262483@RK3188_RK610_V1.1_20121213.RK3188_0H.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85262483@\rk3188_rk610_v1.1_20121213\.\rk3188_0h.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85262483@\rk3188_rk610_v1.1_20121213\.\rk3188_0h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+SECTION_NUMBER 9
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85106534@RK3188_RK610_V1.1_20121213.RK3188_0I.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85106534@\rk3188_rk610_v1.1_20121213\.\rk3188_0i.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85106534@\rk3188_rk610_v1.1_20121213\.\rk3188_0i.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='I';
+
+SECTION_NUMBER 10
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75020392@RK3188_RK610_V1.1_20121213.RK3188_0J.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75020392@\rk3188_rk610_v1.1_20121213\.\rk3188_0j.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins75020392@\rk3188_rk610_v1.1_20121213\.\rk3188_0j.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='J';
+
+SECTION_NUMBER 11
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85056167@RK3188_RK610_V1.1_20121213.RK3188_0K.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85056167@\rk3188_rk610_v1.1_20121213\.\rk3188_0k.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85056167@\rk3188_rk610_v1.1_20121213\.\rk3188_0k.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='K';
+
+SECTION_NUMBER 12
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75025120@RK3188_RK610_V1.1_20121213.RK3188_0L.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75025120@\rk3188_rk610_v1.1_20121213\.\rk3188_0l.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins75025120@\rk3188_rk610_v1.1_20121213\.\rk3188_0l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='L';
+
+SECTION_NUMBER 13
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75035009@RK3188_RK610_V1.1_20121213.RK3188_0M.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75035009@\rk3188_rk610_v1.1_20121213\.\rk3188_0m.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins75035009@\rk3188_rk610_v1.1_20121213\.\rk3188_0m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='M';
+
+PART_NAME
+ U13 'NANDFLASH_0_TSOP48_NAND_FLASH':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS77049803@RK3066_REF_V10_20120424_1CELL.NANDFLASH_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins77049803@rk3066_ref_v10_20120424_1cell.\nandflash_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins77049803@rk3066_ref_v10_20120424_1cell.\nandflash_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'TMP_105147_FBGA169_0P5_14X18MM_':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85791379@SCH_FLAT.TMP_105147AA.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85791379@sch_flat.\tmp_105147aa.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85791379@sch_flat.\tmp_105147aa.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85791414@SCH_FLAT.TMP_105147BB.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85791414@sch_flat.\tmp_105147bb.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85791414@sch_flat.\tmp_105147bb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U15 'AG8012S_0_POE_POE MODULE':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85841298@SCHEMATIC_2.AG8012S_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85841298@schematic_2.\ag8012s_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85841298@schematic_2.\ag8012s_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U16 'DDRII_3_FBGA96-10X14_DDR3-512MB':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85056020@RADXA_VER2.DDRII_3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85056020@radxa_ver2.\ddrii_3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85056020@radxa_ver2.\ddrii_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U17 'DS8008_4_SOT23-5_RT9167-30/NC':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85998020@889V1.DS8008_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85998020@\889v1\.\ds8008_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page6_ins85998020@\889v1\.\ds8008_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U18 'LAN8720A_0_LAN8270A_LAN8720A':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85264304@RADXA_VER2.LAN8720A_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85264304@radxa_ver2.\lan8720a_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85264304@radxa_ver2.\lan8720a_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LPW5206H_SOT23-5_TCS9708':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85034878@LIBRARY1.LPW5206H.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85034878@library1.\lpw5206h.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85034878@library1.\lpw5206h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U20 'LAN1102_0_TRC41604NL_MS10232':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85261794@RK3188&68_RK618_3G&PHONE_V1_1_20130806.LAN1102_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85261794@\rk3188&68_rk618_3g&phone_v1_1_20130806\.\lan1102_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page12_ins85261794@\rk3188&68_rk618_3g&phone_v1_1_20130806\.\lan1102_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U21 'DS8008_4_SOT-25_AP7331-15':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85577519@889V1.DS8008_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85577519@\889v1\.\ds8008_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page11_ins85577519@\889v1\.\ds8008_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U22 'MAX3232_1_SOIC16_MAX3232':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85828790@RADXA_ROCK_PRO_DOORBELL.MAX3232_1.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85828790@radxa_rock_pro_doorbell.\max3232_1.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page13_ins85828790@radxa_rock_pro_doorbell.\max3232_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U25 'DDRII_3_FBGA96-10X14_DDR3-512MB':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85055581@RADXA_VER2.DDRII_3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85055581@radxa_ver2.\ddrii_3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85055581@radxa_ver2.\ddrii_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U26 'DS8008_4_SOT23-5_PT5108E23E-33/':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753036@889V1.DS8008_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753036@\889v1\.\ds8008_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753036@\889v1\.\ds8008_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U27 'DDRII_3_FBGA96-10X14_DDR3-512MB':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85054181@RADXA_VER2.DDRII_3.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85054181@radxa_ver2.\ddrii_3.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page4_ins85054181@radxa_ver2.\ddrii_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U28 'WM-294_0_WIFI_BT_R_RL-UM12BS-81':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85753094@RADXA_VER2.WM-294_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85753094@radxa_ver2.\wm-294_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page10_ins85753094@radxa_ver2.\wm-294_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U29 'LM4990_0_MSOP8_HYM8563':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85119428@SG245V1.0_0718.LM4990_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85119428@\sg245v1.0_0718\.\lm4990_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85119428@\sg245v1.0_0718\.\lm4990_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U30 'RT9193-33GB_SOT23-5_RT9193-33GB':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86036439@LIBRARY2.RT9193-33GB.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86036439@library2.\rt9193-33gb.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86036439@library2.\rt9193-33gb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM2576/TO_0_MP2365_MP2365':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85823096@SCH_FLAT.LM2576/TO_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85823096@sch_flat.\lm2576/to_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins85823096@sch_flat.\lm2576/to_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'ACT8847_0_QFN48_ACT8846QM460':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS75724170@RADXA_VER2.ACT8847_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins75724170@radxa_ver2.\act8847_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page3_ins75724170@radxa_ver2.\act8847_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MAX4062_2_USOP_10P_MAX4062':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85830475@SCH_FLAT.MAX4062_2.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85830475@sch_flat.\max4062_2.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins85830475@sch_flat.\max4062_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'LPW5206H_SOT23-5_TCS9708':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85032581@LIBRARY1.LPW5206H.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85032581@library1.\lpw5206h.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85032581@library1.\lpw5206h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'CRYSTAL DIP DT38 R_2.A_5032-12M':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85030524@RT-1073G02-V1.13-2.CRYSTAL DIP DT38 R_2.A.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85030524@\rt-1073g02-v1.13-2\.\crystal dip dt38 r_2.a.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins85030524@\rt-1073g02-v1.13-2\.\crystal dip dt38 r_2.a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X2 'MICROPHONE_4_HEARDER_2_PITCH_1P':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS86180361@RADXA_ROCK_PRO_DOORBELL.MICROPHONE_4.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins86180361@radxa_rock_pro_doorbell.\microphone_4.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page8_ins86180361@radxa_rock_pro_doorbell.\microphone_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL-4_0_CRY3225_M_24M-20PPM':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS47889193@RADXA_VER2.CRYSTAL-4_0.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins47889193@radxa_ver2.\crystal-4_0.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page5_ins47889193@radxa_ver2.\crystal-4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL DIP DT38 R_2.A_CM315D_3':;
+
+SECTION_NUMBER 1
+ '@RADXA_ROCK_PRO_DOORBELL.RADXA_V2.0(SCH_1):INS85120724@RT-1073G02-V1.13-2.CRYSTAL DIP DT38 R_2.A.NORMAL(CHIPS)':
+ C_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):ins85120724@\rt-1073g02-v1.13-2\.\crystal dip dt38 r_2.a.normal\(chips)',
+ P_PATH='@radxa_rock_pro_doorbell.\radxa_v2.0\(sch_1):page7_ins85120724@\rt-1073g02-v1.13-2\.\crystal dip dt38 r_2.a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

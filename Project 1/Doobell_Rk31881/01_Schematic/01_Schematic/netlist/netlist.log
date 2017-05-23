@@ -1,0 +1,50 @@
+{ Using PSTWRITER 16.6.0 d001Oct-31-2016 at 17:29:25 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.C17" ignored for U12: RADXA_V2.0, 04.DDR3 (35.56, 5.08). Connecting pin to net "DDR_ODT1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.12" ignored for U10: RADXA_V2.0, 05.USB OTG/HUB (63.50, 215.90). Connecting pin to net "HOST_DP4".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.U16" ignored for U12: RADXA_V2.0, 05.USB OTG/HUB (292.10, 15.24). Connecting pin to net "VDD_10".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.11" ignored for U10: RADXA_V2.0, 05.USB OTG/HUB (63.50, 215.90). Connecting pin to net "HOST_DM4".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.4" ignored for J5: RADXA_V2.0, 05.USB OTG/HUB (10.16, 20.32). Connecting pin to net "OTG_ID".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.H19" ignored for U12: RADXA_V2.0, 05.USB OTG/HUB (292.10, 15.24). Connecting pin to net "GPS_LRADC".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U29.7" ignored for U29: RADXA_V2.0, 07.GPIO (53.34, 12.70). Connecting pin to net "RTC_CLKOUT".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.F19" ignored for U12: RADXA_V2.0, 05.USB OTG/HUB (292.10, 15.24). Connecting pin to net "GND".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U28.6" ignored for U28: RADXA_V2.0, 10.Wireless (215.90, 24.13). Connecting pin to net "N85753079".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.AA4" ignored for U12: RADXA_V2.0, 11.Camera (21.59, 52.07). Connecting pin to net "I2C3_SDA".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.B9" ignored for U12: RADXA_V2.0, 04.DDR3 (35.56, 5.08). Connecting pin to net "DDR_CS1N".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "U22.8" ignored for U22: RADXA_V2.0, 13.IOM (12.50, 1.50). Connecting pin to net "RS232_RX1".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "U12.E11" ignored for U12: RADXA_V2.0, 04.DDR3 (35.56, 5.08). Connecting pin to net "DDR_RST".
+#14 WARNING(ORCAP-36006): Part Name "CAP_CAPP_TAJ_D_DISCRETE_100UF/25V" is renamed to "CAP_CAPP_TAJ_D_DISCRETE_100UF/2".
+#15 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_10_CAPP_TAJ_D_DISCRETE_220UF" is renamed to "CAPC-SM0402_10_CAPP_TAJ_D_DISCR".
+#16 WARNING(ORCAP-36006): Part Name "CAPC-SM0402_10_C0603_DISCRETE_100NF" is renamed to "CAPC-SM0402_10_C0603_DISCRETE_1".
+#17 WARNING(ORCAP-36006): Part Name "HEADER 2_HEARDER_2_PITCH_1P25MM_CON2" is renamed to "HEADER 2_HEARDER_2_PITCH_1P25MM".
+#18 WARNING(ORCAP-36006): Part Name "TF_SD_SOCKET_0_USD_SOCKET_TF_SD_SOCKET" is renamed to "TF_SD_SOCKET_0_USD_SOCKET_TF_SD".
+#19 WARNING(ORCAP-36006): Part Name "CON2_0_HEARDER_4_PITCH_1P25MM_CON4" is renamed to "CON2_0_HEARDER_4_PITCH_1P25MM_C".
+#20 WARNING(ORCAP-36006): Part Name "HEADER 10_SFW10R-1STE1LF_HEADER 10" is renamed to "HEADER 10_SFW10R-1STE1LF_HEADER".
+#21 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#25" as visible power pin of same name already exists in Package OV2659 , J2: RADXA_V2.0, 11.Camera (372.11, 57.15).
+#22 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package OV2659 , J2: RADXA_V2.0, 11.Camera (372.11, 57.15).
+#23 WARNING(ORCAP-36006): Part Name "USB MIN_6_CON5_MICROUSB_SKT_SM_HUM011D-5-S" is renamed to "USB MIN_6_CON5_MICROUSB_SKT_SM_".
+#24 WARNING(ORCAP-36006): Part Name "INDUCTOR-COM_0_WCM_2012HDMI_900T_WCM-2012HDMI-900T" is renamed to "INDUCTOR-COM_0_WCM_2012HDMI_900".
+#25 WARNING(ORCAP-36006): Part Name "MIC-MICROPHONE0_0_HEARDER_2_PITCH_1P25MM_MIC-EM5BPS" is renamed to "MIC-MICROPHONE0_0_HEARDER_2_PIT".
+#26 WARNING(ORCAP-36006): Part Name "RES-SM0603_2_SMR0402_DISCRETE_220R" is renamed to "RES-SM0603_2_SMR0402_DISCRETE_2".
+#27 WARNING(ORCAP-36006): Part Name "RES-SM0603_2_SMR0402_DISCRETE_1K" is renamed to "RES-SM0603_2_SMR0402_DISCRETE_1".
+#28 WARNING(ORCAP-36006): Part Name "RES-SM0603_2_SMR0402_DISCRETE_10K" is renamed to "RES-SM0603_2_SMR0402_DISCRETE_3".
+#29 WARNING(ORCAP-36006): Part Name "RES-SM0402_1_R0402_DISCRETE_44.2K" is renamed to "RES-SM0402_1_R0402_DISCRETE_44.".
+#30 WARNING(ORCAP-36006): Part Name "RESD,0402,5%,1/16W,4.7K_R0402_1K_5%" is renamed to "RESD,0402,5%,1/16W,4.7K_R0402_1".
+#31 WARNING(ORCAP-36006): Part Name "TMP_105147_FBGA169_0P5_14X18MM_IC_SDIN7DP2-4G" is renamed to "TMP_105147_FBGA169_0P5_14X18MM_".
+#32 WARNING(ORCAP-36006): Part Name "DS8008_4_SOT23-5_PT5108E23E-33/RT9013-33B" is renamed to "DS8008_4_SOT23-5_PT5108E23E-33/".
+#33 WARNING(ORCAP-36006): Part Name "WM-294_0_WIFI_BT_R_RL-UM12BS-8188EUS" is renamed to "WM-294_0_WIFI_BT_R_RL-UM12BS-81".
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package LM2576/TO_0 , U4: RADXA_V2.0, 03.System power (132.08, 17.78).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#9" as visible power pin of same name already exists in Package LM2576/TO_0 , U4: RADXA_V2.0, 03.System power (132.08, 17.78).
+#36 WARNING(ORCAP-36006): Part Name "CRYSTAL DIP DT38 R_2.A_5032-12M_12M/20PF" is renamed to "CRYSTAL DIP DT38 R_2.A_5032-12M".
+#37 WARNING(ORCAP-36006): Part Name "MICROPHONE_4_HEARDER_2_PITCH_1P25MM_MICROPHONE" is renamed to "MICROPHONE_4_HEARDER_2_PITCH_1P".
+#38 WARNING(ORCAP-36006): Part Name "CRYSTAL DIP DT38 R_2.A_CM315D_32.768K" is renamed to "CRYSTAL DIP DT38 R_2.A_CM315D_3".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\LENHA\DESKTOP\DOOBELL_RK31881\01_SCHEMATIC\01_SCHEMATIC\NETLIST/pstchip.dat
+
+Loading... C:\USERS\LENHA\DESKTOP\DOOBELL_RK31881\01_SCHEMATIC\01_SCHEMATIC\NETLIST/pstchip.dat
+
+Loading... C:\USERS\LENHA\DESKTOP\DOOBELL_RK31881\01_SCHEMATIC\01_SCHEMATIC\NETLIST/pstxprt.dat
+
+Loading... C:\USERS\LENHA\DESKTOP\DOOBELL_RK31881\01_SCHEMATIC\01_SCHEMATIC\NETLIST/pstxnet.dat
+packaging the design view...

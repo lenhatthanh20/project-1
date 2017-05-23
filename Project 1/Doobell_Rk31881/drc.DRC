@@ -1,0 +1,162 @@
+Date and Time : 10/29/16 09:12:06
+
+--------------------------------------------------
+Checking Schematic: RADXA_V2.0
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U22,R1OUT  Output Connected to Bidirectional
+                    RADXA_V2.0, 13.IOM  (13.60, 1.60) 
+WARNING(ORCAP-1829): Possible pin type conflict U22,R2OUT  Output Connected to Bidirectional
+                    RADXA_V2.0, 13.IOM  (13.60, 1.70) 
+WARNING(ORCAP-1831): Unconnected pin U12,HSIC_STROBE 
+                    RADXA_V2.0, 05.USB OTG/HUB  (284.48, 22.86) 
+WARNING(ORCAP-1831): Unconnected pin U12,HSIC_DATA 
+                    RADXA_V2.0, 05.USB OTG/HUB  (284.48, 25.40) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections UART0_CTS 
+                    RADXA_V2.0, 12.RMII_100M  (102.87, 76.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections UART0_RTS 
+                    RADXA_V2.0, 12.RMII_100M  (102.87, 78.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections N85509482 
+                    RADXA_V2.0, 12.RMII_100M  (99.06, 172.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D17 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.45) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_DE 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.25) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D4 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.15) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D20 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.75) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI1_RX 
+                    RADXA_V2.0, 08.RK616  (9.68, 2.53) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D11 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.85) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIC_IN 
+                    RADXA_V2.0, 08.RK616  (19.25, 6.05) 
+WARNING(ORCAP-1600): Net has fewer than two connections ROUT_CO 
+                    RADXA_V2.0, 08.RK616  (9.40, 8.65) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D2 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.95) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D21 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.85) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI1_CSN 
+                    RADXA_V2.0, 08.RK616  (9.68, 2.83) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D13 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.05) 
+WARNING(ORCAP-1600): Net has fewer than two connections MONOOUT 
+                    RADXA_V2.0, 08.RK616  (17.80, 3.35) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_VSYNC 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.45) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D8 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.55) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D3 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.05) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D0 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.75) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D14 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.15) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D16 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.35) 
+WARNING(ORCAP-1600): Net has fewer than two connections LOUT_CO 
+                    RADXA_V2.0, 08.RK616  (9.30, 6.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D6 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.35) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D1 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.85) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI1_CLK 
+                    RADXA_V2.0, 08.RK616  (9.68, 2.73) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIC2 
+                    RADXA_V2.0, 08.RK616  (14.50, 3.35) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D18 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.55) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D9 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.65) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD0_CLK 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.35) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_HSYNC 
+                    RADXA_V2.0, 08.RK616  (3.15, 5.55) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D19 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.65) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D10 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.75) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D5 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.25) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI1_TX 
+                    RADXA_V2.0, 08.RK616  (9.68, 2.63) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D12 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.95) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D7 
+                    RADXA_V2.0, 08.RK616  (3.15, 6.45) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D15 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.25) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D22 
+                    RADXA_V2.0, 08.RK616  (3.15, 7.95) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCDC0_D23 
+                    RADXA_V2.0, 08.RK616  (3.15, 8.05) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_LRCK_RX 
+                    RADXA_V2.0, 07.GPIO  (210.82, 48.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_SDO0 
+                    RADXA_V2.0, 07.GPIO  (210.82, 55.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI_CS0 
+                    RADXA_V2.0, 07.GPIO  (210.82, 30.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections JETTA_RST 
+                    RADXA_V2.0, 07.GPIO  (81.28, 190.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections LED_State2 
+                    RADXA_V2.0, 07.GPIO  (210.82, 15.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_LRCK_TX 
+                    RADXA_V2.0, 07.GPIO  (210.82, 50.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI_CS1 
+                    RADXA_V2.0, 07.GPIO  (210.82, 33.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPI_CLK 
+                    RADXA_V2.0, 07.GPIO  (210.82, 27.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections SPDIF_TX 
+                    RADXA_V2.0, 07.GPIO  (81.28, 195.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_SDI 
+                    RADXA_V2.0, 07.GPIO  (210.82, 53.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2C4_SCL 
+                    RADXA_V2.0, 07.GPIO  (210.82, 40.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_CLK 
+                    RADXA_V2.0, 07.GPIO  (210.82, 43.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_SCLK 
+                    RADXA_V2.0, 07.GPIO  (210.82, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2C4_SDA 
+                    RADXA_V2.0, 07.GPIO  (210.82, 38.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections LED_State1 
+                    RADXA_V2.0, 07.GPIO  (210.82, 10.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections HOST_DM3 
+                    RADXA_V2.0, 05.USB OTG/HUB  (55.88, 241.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections HOST_DP3 
+                    RADXA_V2.0, 05.USB OTG/HUB  (55.88, 243.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections HOST_DM2 
+                    RADXA_V2.0, 05.USB OTG/HUB  (55.88, 226.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections HOST_DP2 
+                    RADXA_V2.0, 05.USB OTG/HUB  (55.88, 228.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections N86167460 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.55) 
+WARNING(ORCAP-1600): Net has fewer than two connections N86167462 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.85) 
+WARNING(ORCAP-1600): Net has fewer than two connections N86167465 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.95) 
+WARNING(ORCAP-1600): Net has fewer than two connections N86167468 
+                    RADXA_V2.0, 08.RK616  (14.80, 3.05) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_LRCK_RX 
+                    RADXA_V2.0, 08.RK616  (15.30, 2.15) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_LRCK_TX 
+                    RADXA_V2.0, 08.RK616  (15.30, 2.25) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_SCLK 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.45) 
+WARNING(ORCAP-1600): Net has fewer than two connections N86166922 
+                    RADXA_V2.0, 08.RK616  (17.10, 3.55) 
+WARNING(ORCAP-1600): Net has fewer than two connections I2S0_CLK 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.35) 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector I2S0_LRCK_RX 
+                    RADXA_V2.0, 08.RK616  (15.30, 2.15) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector I2S0_LRCK_TX 
+                    RADXA_V2.0, 08.RK616  (15.30, 2.25) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector I2S0_SCLK 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.45) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector I2S0_CLK 
+                    RADXA_V2.0, 08.RK616  (14.80, 2.35) 

@@ -1,0 +1,17 @@
+\t (00:00:05) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:05)     Journal start - Sat Nov 26 10:21:05 2016
+\t (00:00:05)         Host=DESKTOP-CDFUL69 User=lenha Pid=3356 CPUs=4
+\t (00:00:05) 
+\t (00:00:07) Opening existing design...
+\d (00:00:08) Database opened: C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/thanh.brd
+\i (00:00:09) trapsize 3978
+\i (00:00:09) trapsize 3868
+\i (00:00:09) trapsize 3997
+\i (00:00:09) trapsize 3997
+\i (00:00:10) trapsize 6065
+\i (00:00:11) placementedit 
+\i (00:00:13) open 
+\i (00:00:47) fillin "menu_cancel"
+\i (00:00:47) placementedit 
+\i (00:09:57) exit 
+\t (00:09:57)     Journal end - Sat Nov 26 10:30:57 2016

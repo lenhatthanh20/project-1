@@ -1,0 +1,683 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3V3_MIC      pins ADDED TO this existing net (pins not previously on any net)
+                                 C8.1                           
+                                 C23.1                          
+                                 C24.1                          
+                                 C25.1                          
+                                 C26.1                          
+                                 U1.6                           
+                                 U1.9                           
+                                 U1.10                          
+                                 U1.26                          
+                                 U1.27                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 R2211.2          276.00 3055.00
+                                                                       I2C0_SCL
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 C1.1                           
+                                 C8.2                           
+                                 C23.2                          
+                                 C24.2                          
+                                 C25.2                          
+                                 C26.2                          
+                                 C31.2                          
+                                 C34.2                          
+                                 J1841.1                        
+                                 J1841.3                        
+                                 J1841.29                       
+                                 J1841.36                       
+                                 J1842.6                        
+                                 J1843.1                        
+                                 R1.1                           
+                                 R3.2                           
+                                 U1.7                           
+                                 U1.8                           
+                                 U1.11                          
+                                 U1.23                          
+                                 U1.24                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_IO1     pins MOVED FROM this net (to net name listed on right)
+                                 U12.U23          951.00 1858.00
+                                                                        SPI1_RX
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO_IO2     pins MOVED FROM this net (to net name listed on right)
+                                 U12.R21         1014.00 1921.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                        SPI1_TX
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HOST_DM2     pins DELETED FROM this net (all pins deleted)
+                                 U10.2            974.00 3520.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HOST_DM3     pins DELETED FROM this net (all pins deleted)
+                                 U10.8            820.00 3520.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HOST_DP2     pins DELETED FROM this net (all pins deleted)
+                                 U10.3            948.00 3520.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HOST_DP3     pins DELETED FROM this net (all pins deleted)
+                                 U10.9            795.00 3520.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C0_SCL     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1842.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C0_SDA     pins ADDED TO this new net
+                                 J1842.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C2_SCL     pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.18                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C2_SDA     pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.19                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C4_SCL     pins DELETED FROM this net (all pins deleted)
+                                 U12.AA15         825.00 2110.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2C4_SDA     pins DELETED FROM this net (all pins deleted)
+                                 U12.AC11         762.00 2236.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2S0_CLK     pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.16                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2S0_LRCK_RX pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.12                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2S0_LRCK_TX pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.13                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2S0_SCLK    pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.15                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2S0_SDI     pins ADDED TO this existing net (pins not previously on any net)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.17                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  I2S0_SDO0    pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.14                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INT          pins ADDED TO this new net
+                                 J1842.5                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  IR_INT       pins MOVED FROM this net (to net name listed on right)
+                                 U12.G22         1265.00 1889.00
+                                                                       I2C0_SDA
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JETTA_RST    pins DELETED FROM this net (all pins deleted)
+                                 U12.F20         1297.00 1952.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD0_CLK     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.30                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D0     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.21                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D1     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.22                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D2     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.23                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D3     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.24                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D4     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.25                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D5     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.26                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D6     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.27                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D7     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.28                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D8     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.13                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCDC0_D9     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.14                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D10    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.15                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D11    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.16                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D12    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.17                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D13    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.18                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D14    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.19                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D15    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.20                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D16    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.5                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D17    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.6                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D18    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.7                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D19    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.8                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D20    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.9                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D21    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.10                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D22    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.11                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_D23    pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.12                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCDC0_DE     pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.34                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_HSYNC  pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.32                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC0_VSYNC  pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.33                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D0      pins MOVED FROM this net (to net name listed on right)
+                                 U12.K6          1171.00 2393.00
+                                                                           WAKE
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D1      pins MOVED FROM this net (to net name listed on right)
+                                 U12.K5          1171.00 2424.00
+                                                                            INT
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D2      pins MOVED FROM this net (to net name listed on right)
+                                 U12.L4          1140.00 2456.00
+                                                                           MODE
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D3      pins DELETED FROM this net (all pins deleted)
+                                 U12.K4          1171.00 2456.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D4      pins DELETED FROM this net (all pins deleted)
+                                 U12.K3          1171.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D5      pins DELETED FROM this net (all pins deleted)
+                                 U12.K2          1171.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D6      pins DELETED FROM this net (all pins deleted)
+                                 U12.L6          1140.00 2393.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D7      pins DELETED FROM this net (all pins deleted)
+                                 U12.L5          1140.00 2424.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D8      pins DELETED FROM this net (all pins deleted)
+                                 U12.M3          1108.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D9      pins DELETED FROM this net (all pins deleted)
+                                 U12.L3          1140.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D10     pins DELETED FROM this net (all pins deleted)
+                                 U12.L2          1140.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCDC_D11     pins DELETED FROM this net (all pins deleted)
+                                 U12.L1          1140.00 2550.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D12     pins DELETED FROM this net (all pins deleted)
+                                 U12.M2          1108.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D13     pins DELETED FROM this net (all pins deleted)
+                                 U12.N4          1076.00 2456.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D14     pins DELETED FROM this net (all pins deleted)
+                                 U12.P4          1045.00 2456.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D15     pins DELETED FROM this net (all pins deleted)
+                                 U12.N3          1076.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D16     pins DELETED FROM this net (all pins deleted)
+                                 U12.N2          1076.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D17     pins DELETED FROM this net (all pins deleted)
+                                 U12.N1          1076.00 2550.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D18     pins DELETED FROM this net (all pins deleted)
+                                 U12.P1          1045.00 2550.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D19     pins DELETED FROM this net (all pins deleted)
+                                 U12.P2          1045.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D20     pins DELETED FROM this net (all pins deleted)
+                                 U12.P3          1045.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D21     pins DELETED FROM this net (all pins deleted)
+                                 U12.R3          1014.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D22     pins DELETED FROM this net (all pins deleted)
+                                 U12.R2          1014.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_D23     pins DELETED FROM this net (all pins deleted)
+                                 U12.T4           982.00 2456.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_DE      pins DELETED FROM this net (all pins deleted)
+                                 U12.T2           982.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCDC_HSYNC   pins DELETED FROM this net (all pins deleted)
+                                 U12.T3           982.00 2487.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LCDC_VSYNC   pins DELETED FROM this net (all pins deleted)
+                                 U12.U1           951.00 2550.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LCD_CS       pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.31                       
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_STATE1   pins DELETED FROM this net (all pins deleted)
+                                 U12.AC10         762.00 2267.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_STATE2   pins DELETED FROM this net (all pins deleted)
+                                 U12.Y11          856.00 2236.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MICBIAS      pins ADDED TO this new net
+                                 C34.1                          
+                                 R4.1                           
+                                 U1.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MIC_IN       pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.28                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MODE         pins ADDED TO this new net
+                                 U1.20                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N85509482    pins DELETED FROM this net (all pins deleted)
+                                 U18.4           1124.00 1489.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N85721765    pins DELETED FROM this net (all pins deleted)
+                                 U12.T1           982.00 2550.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N86112868    pins MOVED FROM this net (to net name listed on right)
+                                 R2212.1          394.00 3055.00
+                                                                         VCC_IO
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N86112941    pins MOVED FROM this net (to net name listed on right)
+                                 R2211.1          314.00 3055.00
+                                                                         VCC_IO
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N86157818    pins ADDED TO this new net
+                                 C1.2                           
+                                 U1.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N86157968    pins ADDED TO this new net
+                                 C2.2                           
+                                 U1.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N86157971    pins ADDED TO this new net
+                                 C5.2                           
+                                 U1.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N86163189    pins ADDED TO this new net
+                                 C2.1                           
+                                 MIC1.1                         
+                                 R1.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N86163194    pins ADDED TO this new net
+                                 C5.1                           
+                                 C31.1                          
+                                 MIC1.2                         
+                                 R3.1                           
+                                 R4.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROUT_CO      pins MOVED FROM this net (to net name listed on right)
+                                 R2212.2          356.00 3055.00
+                                                                       I2C0_SDA
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPDIF_TX     pins DELETED FROM this net (all pins deleted)
+                                 U12.N20         1076.00 1952.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI1_CLK     pins ADDED TO this new net
+                                 J1843.5                        
+                                 U12.T21          982.00 1921.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI1_CS      pins ADDED TO this new net
+                                 J1843.4                        
+                                 U12.T20          982.00 1952.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI1_RX      pins ADDED TO this new net
+                                 J1843.7                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI1_TX      pins ADDED TO this new net
+                                 J1843.6                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI_CLK      pins MOVED FROM this net (to net name listed on right)
+                                 U12.AA13         825.00 2172.00
+                                                                       GPIO_IO1
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPI_CS0      pins MOVED FROM this net (to net name listed on right)
+                                 U12.AB12         793.00 2204.00
+                                                                       GPIO_IO2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SPI_CS1      pins DELETED FROM this net (all pins deleted)
+                                 U12.AB11         793.00 2236.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPKOUTN      pins ADDED TO this new net
+                                 U1.25                          
+                                 X2.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPKOUTP      pins ADDED TO this new net
+                                 U1.22                          
+                                 X2.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPK_CON      pins DELETED FROM this net (all pins deleted)
+                                 U12.U2           951.00 2519.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_CTS    pins DELETED FROM this net (all pins deleted)
+                                 U12.L21         1140.00 1921.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_RTS    pins DELETED FROM this net (all pins deleted)
+                                 U12.L23         1140.00 1858.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART1_RX     pins ADDED TO this new net
+                                 J1843.3                        
+                                 U12.AA12         825.00 2204.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART1_TX     pins ADDED TO this new net
+                                 J1843.2                        
+                                 U12.Y16          856.00 2078.00
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCCA_33      pins ADDED TO this existing net (pins not previously on any net)
+                                 J1841.2                        
+                                 J1841.4                        
+                                 J1842.3                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_IO       pins ADDED TO this existing net (pins not previously on any net)
+                                 J1843.8                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  WAKE         pins ADDED TO this new net
+                                 J1842.4                        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_C0805_1U
+ CAP NP_C0805_220PF
+ CAP NP_C0805_4.7U
+ HEADER 40_LCD40_HEADER 40
+ HEADER 6_LCD6_HEADER 6
+ HEADER 8_HEADER8_HEADER 8
+ MAX3232_1_SOIC16_MAX3232
+ MIC-MICROPHONE0_0_HEARDER_2_PIT
+ MICROPHONE_4_HEARDER_2_PITCH_1P
+ RES_0_R0805_0
+ RES_0_R0805_680
+ RES_0_R0805_47K
+ WM8510_2_WM8510_WM8510
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C17                 CAP NP_C0402_100NF     485.00 3155.00
+ C21                 CAP NP_C0603_10UF      240.00 2955.00
+ C30                 CAP NP_C0402_100NF     573.00 2997.00
+ C33                 CAP NP_C0402_100NF     560.00 2930.00
+ C37                 CAP NP_C0402_1UF       420.00 2850.00
+ C67                 CAP NP_C0402_1NF       885.00 2674.00
+ C121                CAP NP_C0402_100NF     547.00 3243.00
+ C122                CAP NP_C0402_100NF     547.00 3203.00
+ C123                CAP NP_C0402_100NF     547.00 3163.00
+ C124                CAP NP_C0402_2.2UF     547.00 3123.00
+ C130                CAP NP_2_C0603_4.7UF   696.00 3089.00
+ C136                CAP NP_C0402_100NF    1061.00 3024.00
+ C137                CAP NP_C0603_4.7UF     971.00 3009.00
+ C138                CAP NP_C0402_100NF    1061.00 2981.00
+ C139                CAP NP_C0402_100NF     761.00 2947.00
+ C140                CAP NP_C0402_100NF    1061.00 2939.00
+ C142                CAP NP_C0402_2.2UF     913.00 3134.00
+ C143                CAP NP_C0402_100NF     889.00 3072.00
+ C144                CAP NP_C0603_4.7UF     825.00 2898.00
+ C145                CAP NP_C0402_100NF     905.00 2897.00
+ C148                CAP NP_C0402_1UF       775.00 2844.00
+ C244                CAP NP_C0603_10UF      435.00 3315.00
+ C245                CAP NP_C0402_100NF     440.00 3155.00
+ C246                CAP NP_C0402_100NF     375.00 3100.00
+ C247                CAP NP_C0402_1UF       230.00 3080.00
+ C249                CAP NP_C0402_100NF     295.00 3100.00
+ D19                 DIODE_SOD123_1N5819    617.00 2898.00
+ FB1                 INDUCTOR_L0603_BLM18PG181SN1  480.00 3070.00
+ FB4                 INDUCTOR_L0603_BLM18PG181SN1  375.00 3210.00
+ J8                  CON2_0_HEARDER_2_PITCH_1P25MM_C  110.00 3205.00
+ J1839               CON2_0_HEARDER_2_PITCH_1P25MM_C  110.00 3380.00
+ R43                 RESISTOR_R0402_62K     605.00 2930.00
+ R45                 RESISTOR_R0402_30K     560.00 2850.00
+ R46                 RESISTOR_R0402_1M      465.00 2850.00
+ R47                 RESISTOR_R0402_100K    511.00 2850.00
+ R64                 RESISTOR_0_R0402_2K    691.00 2744.00
+ R68                 RESISTOR_0_R0402_4.7K  844.00 2675.00
+ R72                 RESISTOR_0_R0402_0R    944.00 2635.00
+ R130                R0402_R0402_0R/NC      647.00 2998.00
+ R133                RESISTOR_0_R0402_0R    696.00 2998.00
+ R134                RESISTOR_R0402_12K     872.00 2997.00
+ R2213               RESISTOR_R0402_1M      185.00 3080.00
+ R2214               RESISTOR_R0402_100K    135.00 3080.00
+ U3                  LM4990_MSOP8_TCS8642B/PT5305N_D  260.00 3250.00
+ U6                  LM4990_MSOP8_TCS8642B/PT5305N_D  406.00 2958.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U7                  RKJETTA_BGA_0_RK616_BGA144_RK61  919.00 2916.00
+ U23                 CE71XXMM_SOT23_PT5110_2.5V  552.00 3018.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_C0805_4.7U     
+ C2                  CAP NP_C0805_1U       
+ C5                  CAP NP_C0805_1U       
+ C8                  CAP NP_C0805_4.7U     
+ C23                 CAP NP_C0805_4.7U     
+ C24                 CAP NP_C0805_4.7U     
+ C25                 CAP NP_C0805_4.7U     
+ C26                 CAP NP_C0805_4.7U     
+ C31                 CAP NP_C0805_220PF    
+ C34                 CAP NP_C0805_4.7U     
+ J1841               HEADER 40_LCD40_HEADER 40 
+ J1842               HEADER 6_LCD6_HEADER 6 
+ J1843               HEADER 8_HEADER8_HEADER 8 
+ MIC1                MIC-MICROPHONE0_0_HEARDER_2_PIT 
+ R1                  RES_0_R0805_0         
+ R3                  RES_0_R0805_47K       
+ R4                  RES_0_R0805_680       
+ U1                  WM8510_2_WM8510_WM8510 
+ X2                  MICROPHONE_4_HEARDER_2_PITCH_1P 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in board drawing          |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2211               RESISTOR_R0402_2K      295.00 3055.00 RESISTOR_R0402_30K
+ R2212               RESISTOR_R0402_2K      375.00 3055.00 RESISTOR_R0402_62K
+ U22                 MAX3232_1_SOIC16_MAX3232 1445.00  285.00 MAX3232_0_SOIC16_MAX3232
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C31.2                          PRIM_FILE      .\pstchip.dat
+ C34.2                          PRIM_FILE      .\pstchip.dat
+ J1841.9                        PRIM_FILE      .\pstchip.dat
+ J1842.6                        PRIM_FILE      .\pstchip.dat
+ J1843.8                        PRIM_FILE      .\pstchip.dat
+ MIC1.2                         PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R2211.2         295.00 3055.00 PRIM_FILE      .\pstchip.dat
+ R2212.2         375.00 3055.00 PRIM_FILE      .\pstchip.dat
+ U1.1                           PRIM_FILE      .\pstchip.dat
+ U22.16         1445.00  285.00 PRIM_FILE      .\pstchip.dat
+ X2.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/layout_12.brd              |
+|                                                    Mon Oct 31 17:47:55 2016  |
+|------------------------------------------------------------------------------|
+| SHAPE MOVED TO DUMMY NET                                                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name                  |   layer      |    first point on shape      |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ N86112834                        TOP            (420.00 3235.00)
+ VCC_JETTA                        BOTTOM         (635.00 3005.00)
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  267                                            |
+|------------------------------------------------------------------------------|

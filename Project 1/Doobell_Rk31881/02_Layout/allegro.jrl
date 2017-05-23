@@ -1,0 +1,76 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Wed Dec 28 22:15:34 2016
+\t (00:00:04)         Host=DESKTOP-CDFUL69 User=lenha Pid=9540 CPUs=4
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\d (00:00:07) Database opened: C:/Users/lenha/Desktop/Doobell_Rk31881/02_Layout/thanh.brd
+\i (00:00:08) trapsize 6021
+\i (00:00:08) trapsize 5773
+\i (00:00:08) trapsize 6065
+\i (00:00:08) trapsize 6065
+\i (00:00:09) placementedit 
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1778.07 4919.80
+\i (00:00:11) trapsize 12129
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 1778.08 5097.17
+\i (00:00:11) trapsize 21413
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 5338.26 10500.52
+\i (00:00:11) trapsize 21413
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1141.26 2320.65
+\i (00:00:11) trapsize 10707
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 1141.26 2320.66
+\i (00:00:11) trapsize 5353
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1141.26 2320.66
+\i (00:00:12) trapsize 2677
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1189.45 2272.48
+\i (00:00:12) trapsize 1338
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1189.45 2272.49
+\i (00:00:12) trapsize 669
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 1189.45 2272.49
+\i (00:00:12) trapsize 335
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1190.12 2281.86
+\i (00:00:13) trapsize 669
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1190.12 2281.86
+\i (00:00:13) trapsize 1338
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1190.12 2281.87
+\i (00:00:13) trapsize 2677
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1190.11 2281.87
+\i (00:00:13) trapsize 5353
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 1190.11 2281.87
+\i (00:00:13) trapsize 10707
+\i (00:00:14) open 
+\i (00:00:46) fillin "F:\ProjectORCAD\FootprintLIB\smc1206_X2Y.dra"
+\i (00:00:46) cd "F:\ProjectORCAD\FootprintLIB"
+\t (00:00:46) Opening existing design...
+\i (00:00:47) trapsize 51
+\i (00:00:47) trapsize 48
+\i (00:00:47) trapsize 51
+\i (00:00:47) trapsize 51
+\t (00:00:47)     Journal end - Wed Dec 28 22:16:17 2016
